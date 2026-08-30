@@ -1,25 +1,25 @@
-# Freshman Side Quest Generator ✦
+# Cuddly Invention Co. ⚡
 
-A tiny, dependency-free web app that turns the wonderfully awkward first year of college into a series of low-stakes adventures.
+An interactive creature laboratory for manufacturing weirdly lovable lifeforms.
 
-## What it does
+## Enter the lab
 
-- Suggests randomized campus side quests
-- Mixes social, academic, exploration, wellness, and life challenges
-- Awards XP and levels
-- Tracks completed quests and daily streaks in your browser
-- Works as a single static HTML file—no build step or account required
+**Live site:** https://6u5u.github.io/cuddly-invention/
 
-## Try it
+Mix genes, mutate your specimen, give it a name, roll for rarity, and save your favorite creatures to a personal collection.
 
-Open `index.html` in any modern browser. If GitHub Pages is enabled for this repository, the project can also run as a live website directly from the `main` branch.
+## Features
 
-## Why this exists
+- Procedurally generated creatures drawn in real time
+- Fur colors, body types, eye counts, and chaos controls
+- Random mutations and rarity tiers
+- Editable creature names
+- A persistent specimen collection saved in your browser
+- Responsive layout for phones and desktops
+- Zero dependencies and no build step
 
-College can feel like everyone else received a map you somehow missed. They did not. This project is a friendly reminder that belonging is usually built from small moments: asking a question, exploring an unfamiliar building, learning a name, or showing up somewhere new.
+## Run locally
 
-## Customize it
+Download the repository and open `index.html` in a browser.
 
-Add your own quests to the `quests` array near the bottom of `index.html`. Each quest includes an emoji, category, XP value, challenge, and a short encouragement.
-
-Built with plain HTML, CSS, JavaScript, and freshman energy.
+Built with HTML, CSS, Canvas, JavaScript, and absolutely no responsible scientific oversight.
